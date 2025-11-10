@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.mp3
+*.wav
+*.zip
+*.tar
+*.ipynb
+.env
+.git/
+.idea/
+.vscode/
+.DS_Store
+*.mp4

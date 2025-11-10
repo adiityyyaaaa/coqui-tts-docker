@@ -1,0 +1,4 @@
+numpy==1.22.0
+TTS==0.22.0
+soundfile
+gradio
